@@ -1,0 +1,17 @@
+	[
+		{
+			"User": {
+				"salutation": "Mr.",
+				"role": "675765",
+				"SPcorporateType": "Individual",
+				"AgentTypeID": 0,
+				"phone": "54647578",
+				"Address": {
+					"Address1": "B-35-A",
+					"Address2": "OLD DLF COLONY GURGAON",
+					"state": "HARYANA",
+					"PinCode": "9000s"
+				}
+			}
+		}
+	]
